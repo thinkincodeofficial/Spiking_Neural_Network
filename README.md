@@ -33,8 +33,6 @@ The full design is in [`docs/experiment.md`](docs/experiment.md).
 │   ├── experiments.py      # STDP demo, Experiment 1, Experiment 2
 │   ├── metrics.py          # op counts, energy estimates, comparison table
 │   └── visualizer.py       # matplotlib figures
-├── docs/
-│   └── experiment.md       # experiment design notes
 └── results/                # generated plots + run log (committed as a reference run)
 ```
 
